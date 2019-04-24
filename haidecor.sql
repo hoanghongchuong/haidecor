@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1
--- Thời gian đã tạo: Th3 27, 2019 lúc 05:39 AM
+-- Thời gian đã tạo: Th4 24, 2019 lúc 12:25 PM
 -- Phiên bản máy phục vụ: 10.1.38-MariaDB
--- Phiên bản PHP: 7.3.2
+-- Phiên bản PHP: 7.2.17
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Cơ sở dữ liệu: `hoangtuan`
+-- Cơ sở dữ liệu: `haidecor`
 --
 
 -- --------------------------------------------------------
